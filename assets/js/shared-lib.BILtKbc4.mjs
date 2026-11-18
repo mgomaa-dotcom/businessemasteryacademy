@@ -1,0 +1,3 @@
+import{t as e}from"./rolldown-runtime.BXVgRTY5.mjs";function t(e,t){return{description:`طوّر أداء شركتك مع ماستري للأعمال، عبر حلول تدريبية مرنة ودورات متخصصة لتأهيل الموظفين، رفع كفاءة فرق العمل، وزيادة الإنتاجية لتحقيق نمو مستدام 
+`,favicon:`assets/images/image-bundle-34.png`,robots:`max-image-preview:large`,socialImage:`assets/images/image-extra-3.jpg`,title:`ماستري اكاديمي - تدريب الشركات`}}var n=e((()=>{}));export{t as n,n as t};
+//# sourceMappingURL=shared-lib.BILtKbc4.mjs.map
